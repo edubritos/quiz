@@ -2,7 +2,6 @@
 ## Quiz
 
 Projeto criado com React comsumindo um JSON da API [Trivia](https://opentdb.com/api_config.php).<br>
-Animação de rotação do quadro apenas com CSS.
 
 ## Quick Deploy
 [![Netlify Status](https://api.netlify.com/api/v1/badges/76dbb7b4-4ed4-413a-80fb-19f3b7a89b18/deploy-status)](https://app.netlify.com/sites/quiz-edusilva/deploys)
