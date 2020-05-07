@@ -3,9 +3,6 @@
 
 Projeto criado com React comsumindo um JSON da API [Trivia](https://opentdb.com/api_config.php).<br>
 
-## Quick Deploy
-[![Netlify Status](https://api.netlify.com/api/v1/badges/76dbb7b4-4ed4-413a-80fb-19f3b7a89b18/deploy-status)](https://app.netlify.com/sites/quiz-edusilva/deploys)
-
 ### Screen
 ![screen](https://user-images.githubusercontent.com/59884552/81240057-c215b100-8fdc-11ea-8fc8-74902057942b.jpg)
 
